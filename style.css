@@ -1,0 +1,19 @@
+iframe
+{
+    width: 100%;
+}
+
+.travel_mainDiv
+{
+   border: 1px solid rgb(150, 214, 182); 
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p 
+{
+    margin: 20px;
+}
